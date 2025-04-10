@@ -296,7 +296,7 @@ ul{
     display: flex;
 
   }
-  /* footer */
+  /* footer section*/
   .footer {
     background-color: #1f2b2c;
     color: #eee;
@@ -386,7 +386,6 @@ ul{
   .discover-paragraph{
     text-align: center;
     font-size: 25px;
-    width: 80%;
 
   }
   .printing-techniques{
